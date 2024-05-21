@@ -29,6 +29,10 @@
           var s = document.createElement("script");
           s.type = "text/javascript";
           s.async = true;
+          var siteScope = window;
+          siteScope.document.styleSheets[0].insertRule(
+            ".LandbotLivechat { min-width: 200px !important}"
+          );
           s.addEventListener("load", function () {
             var myLandbot = new Landbot.Livechat({
               configUrl:
@@ -44,7 +48,5 @@
         }
       }
     </script>
-    <style>
-    </stye
   </body>
 </html>
