@@ -34,9 +34,8 @@
               configUrl:
                 "https://storage.googleapis.com/landbot.online/v3/H-2219453-HTNGA47RTOOITID5/index.json",
             });
-            myLandbot.core.events.addListener("init", function () {
-              console.log("landbot did open!");
-              myLandbot.open();
+            myLandbot.onLoad(function () {
+              console.log("landbot loaded!");
             });
             myLandbot.open();
           });
