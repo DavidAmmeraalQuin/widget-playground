@@ -1,0 +1,34 @@
+HTTrack3.49-2 launched on Tue, 21 May 2024 16:54:46 at https://www.huisartsenpraktijkrolde.nl/
+(httrack https://www.huisartsenpraktijkrolde.nl/ -O /Users/davidammeraal/Documents/workspace/rolde-website )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/css/owl.video.play.png (from https://www.huisartsenpraktijkrolde.nl/assets/css/owl.carousel.min.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/home-two/home-two-bg.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/home-three-bg.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/appointment/appoinment-bg.png (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/services/service-img1.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/services/service-img2.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/services/service-img3.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/services/service-img4.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/services/service-img5.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/services/service-img6.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/consultancy/consultancy-bg.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/insurance-bg.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/prescription/prescription-bg.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/case-study/case-study-bg.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/serve/serve-bg.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/serve/serve-img.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/blog/blog-img.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/blog/blog-img2.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/blog/blog-img3.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/testimonials/testimonials-bg.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/brand/brand-bg.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/subscribe-img/subscribe-img.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+16:56:47	Error: 	"Not Found" (404) at link https://www.huisartsenpraktijkrolde.nl/assets/img/inner-banner/inner-banner-11.jpg (from https://www.huisartsenpraktijkrolde.nl/assets/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 1 seconds : 120 links scanned, 96 files written (8765197 bytes overall) [7220071 bytes received at 59670 bytes/sec], 2193548 bytes transferred using HTTP compression in 42 files, ratio 26%, 15.0 requests per connection
+(23 errors, 0 warnings, 0 messages)
