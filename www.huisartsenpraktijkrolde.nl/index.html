@@ -803,7 +803,8 @@ U bent zelf verantwoordelijk voor het opvragen van uitslagen. Dit betekent dus d
         <script>
             window.addEventListener("mouseover", initLandbot, { once: true });
             window.addEventListener("touchstart", initLandbot, { once: true });
-            var myLandbot;
+            let myLandbot;
+            let userOpened;
             function initLandbot() {
               if (!myLandbot) {
                 var s = document.createElement("script");
@@ -817,8 +818,12 @@ U bent zelf verantwoordelijk voor het opvragen van uitslagen. Dit betekent dus d
                   var myLandbot = new Landbot.Livechat({
                     configUrl:
                       "https://storage.googleapis.com/landbot.online/v3/H-2219453-HTNGA47RTOOITID5/index.json",
+                    customData: {
+                        userOpened: true
+                    }
                   });
                   myLandbot.onLoad(function () {
+                    userOpened = true;
                     myLandbot.open();
                   });
                 });
