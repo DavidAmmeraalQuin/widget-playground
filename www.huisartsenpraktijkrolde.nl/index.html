@@ -808,6 +808,7 @@ U bent zelf verantwoordelijk voor het opvragen van uitslagen. Dit betekent dus d
         once: true
     });
     let myLandbot;
+    let botId = "H-2219453-HTNGA47RTOOITID5";
     function initLandbot() {
         if (!myLandbot) {
             var s = document.createElement("script");
@@ -819,7 +820,7 @@ U bent zelf verantwoordelijk voor het opvragen van uitslagen. Dit betekent dus d
             );
             s.addEventListener("load", function() {
                 myLandbot = new Landbot.Livechat({
-                    configUrl: "https://storage.googleapis.com/landbot.online/v3/H-2219453-HTNGA47RTOOITID5/index.json",
+                    configUrl: "https://storage.googleapis.com/landbot.online/v3/" + botId + "/index.json",
                 });
                 myLandbot.onLoad(function() {
                     myLandbot.open();
